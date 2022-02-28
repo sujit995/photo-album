@@ -42,5 +42,16 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "description": "This project is a tutorial of Firebase Authentication, Cloud Storage with React.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victoria-lo/photo-album.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victoria-lo/photo-album/issues"
   }
 }

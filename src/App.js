@@ -12,8 +12,7 @@ function App() {
       <Router>
         <div className="App">
           <p>
-            Welcome to Photo Album. This is a tutorial for Firebase Cloud
-            Storage and Authentication. Still in Progress.
+            Welcome to Photo Album.
           </p>
           <Switch>
             <Route exact path="/photo-album/upload" component={Upload} />
